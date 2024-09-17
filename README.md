@@ -38,6 +38,8 @@
 <a href="https://chimba.ooo/" target="_blank"><img src="https://i.imgur.com/qxH7kwR_d.jpg?maxwidth=520&shape=thumb&fidelity=high" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
+
+<a href="https://chimba.ooo/" target="_blank">
 <img src="https://cdn.icon-icons.com/icons2/849/PNG/512/browser_globe_internet_icon-icons.com_67284.png" width="60">
 </a>
 </p>
