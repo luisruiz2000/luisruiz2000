@@ -33,7 +33,6 @@
 </td>
 
 <td width="50%">
-               <br>
 <h3 align="center">Pagina web (Billertera digital)</h3>
 <div align="center">                                       
 <a href="https://chimba.ooo/" target="_blank"><img src="https://i.imgur.com/qxH7kwR_d.jpg?maxwidth=520&shape=thumb&fidelity=high" width="400" alt="Curso arquitectura MVVM"></a>
