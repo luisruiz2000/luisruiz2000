@@ -75,11 +75,9 @@ Mi portafolio web construido con React + Vite, donde puedes ver mis proyectos y 
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
-![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisruiz2000&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisruiz2000&layout=compact&theme=tokyonight)
+![Luis's GitHub stats](https://streak-stats.demolab.com?user=luisruiz2000&theme=tokyonight&hide_border=true&locale=es) -->
 
 ---
 
